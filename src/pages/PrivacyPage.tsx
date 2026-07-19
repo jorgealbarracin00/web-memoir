@@ -37,4 +37,6 @@ export function PrivacyPage() {
     <section><h2>15. Contact</h2><p>If you have questions about this Privacy Policy or how Memoir handles your information, please contact us at <a href={`mailto:${siteConfig.privacyEmail}`}>{siteConfig.privacyEmail}</a>.</p></section>
 
     </LegalDocument>
+      </>
+
 }
