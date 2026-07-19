@@ -1,10 +1,10 @@
 export const siteConfig = {
   productName: 'Memoir',
-  companyName: 'GAMA Dynamics',
+  companyName: 'Jorge Albarracin, operating as GAMA Dynamics',
   websiteUrl: 'https://memoir.gamadynamics.com',
   appStoreUrl: null as string | null,
-  privacyEmail: 'privacy@gamadynamics.com',
-  supportEmail: 'support@gamadynamics.com',
+  privacyEmail: 'jorge.albarracin@gamadynamics.com.au',
+  supportEmail: 'jorge.albarracin@gamadynamics.com.au',
   supportResponseTime: null as string | null,
   copyrightYear: 2026,
   effectiveDate: '19 July 2026',
